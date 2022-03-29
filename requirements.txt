@@ -17,7 +17,7 @@ idna==2.8
 ipaddress==1.0.22
 kombu==3.0.37
 MySQL-python==1.2.5
-paramiko==2.4.2
+paramiko==2.10.1
 pyasn1==0.4.4
 pycparser==2.19
 pyExcelerator==0.6.0a0
